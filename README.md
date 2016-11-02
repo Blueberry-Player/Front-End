@@ -13,4 +13,4 @@ All Visualizations of the Web Player
 - using apache and django
   - [SETTING UP AN APACHE WEB SERVER ON A RASPBERRY PI](https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md)
   - [How To Serve Django Applications with Apache and mod_wsgi on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-apache-and-mod_wsgi-on-ubuntu-14-04)
-  - [How to use Django with Apache and mod_wsgi(https://docs.djangoproject.com/en/1.10/howto/deployment/wsgi/modwsgi/)
+  - [How to use Django with Apache and mod_wsgi](https://docs.djangoproject.com/en/1.10/howto/deployment/wsgi/modwsgi/)
