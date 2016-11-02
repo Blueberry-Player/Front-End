@@ -30,6 +30,10 @@ All Visualizations of the Web Player
 - **needs to be controllable:** pause, maybe half speed, double speed, etc..
 - Useful Links:
   - http://unix.stackexchange.com/questions/229787/audio-only-youtube-player
+- using mpv + yturl:
+  - `mpv --no-video "$(yturl <url>)"`
+    - This command plays youtube video audio with an intuitive CLI.
+  
 
 
 
